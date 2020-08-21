@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/codewell/use-canvas#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^26.4.1"
   }
 }
